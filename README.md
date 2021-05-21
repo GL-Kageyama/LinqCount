@@ -4,8 +4,8 @@
 
 ## Output Sanple
 
-~/LinqCount $ mcs LinqCount.cs  
-~/LinqCount $ mono ./LinqCount.exe  
+$ mcs LinqCount.cs  
+$ mono ./LinqCount.exe  
 15  
 26  
 15  

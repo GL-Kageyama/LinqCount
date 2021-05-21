@@ -2,7 +2,7 @@
 
 ## Counting Sample at Using C# LINQ
 
-## Output Sanple
+## Output Sample
 
 $ mcs LinqCount.cs  
 $ mono ./LinqCount.exe  
